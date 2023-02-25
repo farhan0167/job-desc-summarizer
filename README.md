@@ -3,6 +3,8 @@
 
 I've built a Chrome Extension that allows you to copy-past a job description, and it returns you a summary of that job description. This is the first iteration of the application (I'm still learning how to build a chrome extension). The job description is fed into a GPT-3 model by OpenAI using a simple prompt, almost similar to how you'd interact with ChatGPT. I'm making this public in case anybody wants to re-create this application and use it in their job search.
 
+![demo](extras/demo.GIF)
+
 In order to re-create and use the extension (I'll assume you are familiar with the command line), follow the steps below:
 
 1. Clone the repository in your local machine:
